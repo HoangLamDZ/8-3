@@ -6,15 +6,15 @@ const CONFIG = {
     Lạc vào tim tớ lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
-    title: '🥰Ngồi chờ duyên phận ý trời',
-    desc: 'Phải chăng Chi bằng chủ động ngỏ lời thương nhau! ',
+    title: '🥰Ngồi chờ duyên phận ý trời<33333333',
+    desc: 'Phải chăng Chi bằng chủ động ngỏ lời thương nhau!^^ ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Học sâu, hiểu rộng, biết nhiều. Chi bằng gặp mặt đánh liều yêu cậu! <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'chúc cậu mùng 8/3 vui vẻ ngày càng xinh đẹp trong mắt tớ nhaaaaa, iu cậu nhìu ạ <333.',
-    btnAccept: 'Okiiiii lun <3',
+    messDesc: 'chúc cậu mùng 8/3 vui vẻ ngày càng xinh đẹp trong mắt tớ nhaaaaa, iu cậu nhìu ạ <3.',
+    btnAccept: 'Okiiiii lun <3333333',
     messLink: https://www.facebook.com/dii.hanthien.90857' 
 }
