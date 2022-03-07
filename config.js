@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'chúc cậu mùng 8/3 vui vẻ ngày càng xinh đẹp trong mắt tớ nhaaaaa, iu cậu nhìu ạ <33333.',
+    messDesc: 'chúc Quỳnh Anh mùng 8/3 vui vẻ ngày càng xinh đẹp trong mắt tớ nhaaaaa, iu cậu nhìu ạ <33333.',
     btnAccept: 'Okiiiii lun <3',
     messLink: https://www.facebook.com/dii.hanthien.90857' 
 }
